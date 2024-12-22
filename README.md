@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/andreugaski/andreugaski/master/name.gif" alt="Andreu Gascón" />
+  <img src="https://raw.githubusercontent.com/andreugaski/andreugaski/master/name.png" alt="Andreu Gascón" />
 </h1>
 
 ## Hey! 👋
