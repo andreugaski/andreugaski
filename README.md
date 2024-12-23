@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/andreugaski/andreugaski/master/name.png" alt="Andreu Gascón" />
 </h1>
 
-## Hey! 👋
-I'm Marton, a 20 years old web developer from Hungary.
+## Hello! 👋
+I'm Andreu, a 20 years old Artificial Student from Barcelona (Catalonia, Spain).
 
 - 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
 
