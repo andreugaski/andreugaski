@@ -1,5 +1,11 @@
+<style>
+  img {
+    background-color: rgba(255, 255, 255, 0.5); /* White with 50% opacity */
+  }
+</style>
+
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/andreugaski/andreugaski/master/name.png" alt="Andreu Gascón" />
+  <img src="https://raw.githubusercontent.com/andreugaski/andreugaski/master/name.png" alt="Andreu Gascón" />
 </h1>
 
 ## Hello! 👋
@@ -15,7 +21,7 @@ I'm Andreu, a 20-year-old Artificial Intelligence Student from Barcelona (Catalo
 - 👁️ SASS, CSS, Stylus
 - 💽 MySQL, SQL, Mongo
 + a lot more :D
-+ 
++ 
 ### 🧰 Main Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
