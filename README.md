@@ -12,32 +12,10 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 
 
 
-- 👨‍💻 Currently studying at the **Autonomous University of Barcelona**
+- 👨‍💻 Studying at the **Autonomous University of Barcelona**
 - 🤖 Interested in **Deep and Reinforcement Learning**
-- 
+- 🚀 Currently Learning **ROS**
 
-
-+ a lot more ;)
-
-## My Projects
-- **[Calculator App](#)**: A simple calculator built with HTML, CSS, and JavaScript.
-- **[Portfolio Website](#)**: My personal portfolio showcasing my skills and projects.
-- **[Learning Notes](#)**: A repository where I document my programming journey.
-
-
-## Worked with
-
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
-
-- ⚙️ React, Svelte, Vue
-
-- 👁️ SASS, CSS, Stylus
-
-- 💽 MySQL, SQL, Mongo
-
-+ a lot more :D
-
-+ 
 
 ### 🧰 Main Languages and Tools
 
@@ -64,6 +42,32 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 <img align="left" alt="torch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
 <br />
+
+
+## Worked also with
+
+- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
+
+- ⚙️ React, Svelte, Vue
+
+- 👁️ SASS, CSS, Stylus
+
+- 💽 MySQL, SQL, Mongo
+
++ a lot more :D
+
+
++ a lot more ;)
+
+## My Projects
+- **[Calculator App](#)**: A simple calculator built with HTML, CSS, and JavaScript.
+- **[Portfolio Website](#)**: My personal portfolio showcasing my skills and projects.
+- **[Learning Notes](#)**: A repository where I document my programming journey.
+
+
+
+
++ 
 
 
 
