@@ -17,8 +17,8 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 - 🚀 Currently Learning **ROS**
 
 
-### 🧰 Main Languages and Tools
 
+## 🧰 Main Languages and Tools
 
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
