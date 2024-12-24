@@ -64,7 +64,7 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 
 ## Contact
 
-- [marton.lederer.hu](https://marton.lederer.hu)
+- Personal e-mail: (a.gasconmarzo@gmail.com)
 
 - [@martonlederer](https://twitter.com/martonlederer) on Twitter
 
