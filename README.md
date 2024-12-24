@@ -1,10 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/andreugaski/andreugaski/master/name.png" alt="Andreu Gascón" />
 </h1>
-
-<br><br>
-
-
 ## Hello! 👋
 
 I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Catalonia, Spain).
