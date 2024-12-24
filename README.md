@@ -68,5 +68,3 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 - Academic e-mail: Andreu.Gascon@autonoma.cat
 
 - () on Linkedin
-
-- [@martonlederer](./) on Discord
