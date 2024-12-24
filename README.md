@@ -27,8 +27,6 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
@@ -39,23 +37,20 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 
 <img align="left" alt="torch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 
-<img align="left" alt="torch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+<img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
 <br />
 <br><br>
 
+## ➕ Worked also with:
 
-## Worked also with
+- 👨‍💻 C, C++, R 
 
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
+- ⚙️ Gymnasium, NetworkX, TensorFlow, OpenCV, NLTK...
 
-- ⚙️ React, Svelte, Vue
+- 👁️ CopeliaSIM, AWS, Colab, Kaggle
 
-- 👁️ SASS, CSS, Stylus
-
-- 💽 MySQL, SQL, Mongo
-
-+ a lot more :D
+- 💽 MySQL, Mongo, Spark
 
 
 + a lot more ;)
@@ -67,16 +62,6 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 - **[Learning Notes](#)**: A repository where I document my programming journey.
 
 
-
-
-+ 
-
-
-
-#
-
-
-
 ## Contact
 
 - [marton.lederer.hu](https://marton.lederer.hu)
@@ -84,6 +69,3 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 - [@martonlederer](https://twitter.com/martonlederer) on Twitter
 
 - [@martonlederer](./) on Discord
-
-
-in this readme front page, how can I add a background in the images?
