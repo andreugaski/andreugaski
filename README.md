@@ -4,6 +4,7 @@
 
 </h1>
 
+<br><br>
 
 
 ## Hello! 👋
@@ -15,6 +16,7 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 - 🤖 Interested in **Deep and Reinforcement Learning**
 - 🚀 Currently Learning **ROS**
 
+<br><br>
 
 
 ## 🧰 Main Languages and Tools
@@ -41,6 +43,7 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 <img align="left" alt="torch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
 <br />
+<br><br>
 
 
 ## Worked also with
@@ -57,6 +60,7 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 
 
 + a lot more ;)
+<br><br>
 
 ## My Projects
 - **[Calculator App](#)**: A simple calculator built with HTML, CSS, and JavaScript.
