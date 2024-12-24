@@ -10,7 +10,7 @@
 
 I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Catalonia, Spain).
 
-
+/n
 
 - 👨‍💻 Studying at the **Autonomous University of Barcelona**
 - 🤖 Interested in **Deep and Reinforcement Learning**
@@ -31,7 +31,7 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://iconos8.es/icon/P6uptsK9QN1X/github" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
 
 <img align="left" alt="LUA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 
