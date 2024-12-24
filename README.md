@@ -10,7 +10,6 @@
 
 I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Catalonia, Spain).
 
-/n
 
 - 👨‍💻 Studying at the **Autonomous University of Barcelona**
 - 🤖 Interested in **Deep and Reinforcement Learning**
