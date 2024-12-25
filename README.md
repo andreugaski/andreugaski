@@ -50,8 +50,8 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 <br><br>
 
 ## My Projects
-- **[Calculator App](#)**: A simple calculator built with HTML, CSS, and JavaScript.
-- **[Portfolio Website](#)**: My personal portfolio showcasing my skills and projects.
+- **[Deep Reinforcement Learning Project](https://github.com/peremayolc/ReinforcementLearning_Project_Group1)**: Solving two ATARI 2600 games using gymnasium and Stable Baselines.
+- **[UAB Energy Study](https://github.com/peremayolc/UAB_EnergyStudy.git)**: Work on creating an application with a next-best action system according to predicted future environment values from inside and outside UAB Engineering School. [Currently on STANDBY]
 - **[Learning Notes](#)**: A repository where I document my programming journey.
 
 
@@ -59,5 +59,4 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 
 - Personal e-mail: a.gasconmarzo@gmail.com
 - Academic e-mail: Andreu.Gascon@autonoma.cat
-
 - () on Linkedin
