@@ -42,10 +42,8 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 - 👁️ CopeliaSIM, AWS, Colab, Kaggle
 - 💽 MySQL, Mongo, Spark
 
-
 + a lot more ;)
 <br><br>
-
 ## My Projects
 
 - **[Deep Reinforcement Learning Project](https://github.com/peremayolc/ReinforcementLearning_Project_Group1.git)**: Solving two ATARI 2600 games using **gymnasium and Stable Baselines**.
