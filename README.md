@@ -50,8 +50,11 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 <br><br>
 
 ## My Projects
+
 - **[Deep Reinforcement Learning Project](https://github.com/peremayolc/ReinforcementLearning_Project_Group1.git)**: Solving two ATARI 2600 games using **gymnasium and Stable Baselines**.
+  
 - **[UAB Energy Study](https://github.com/peremayolc/UAB_EnergyStudy.git)**: Work on creating an application with a **next-best action system** according to **predicted future environment values** from inside and outside UAB Engineering School. [Currently on STANDBY]
+  
 - **[Handwritten Recognition Project](https://github.com/DCC-UAB/deep-learning-project-2024-ai_nndl_group_14.git)**: Handwritten Recognition project using Computer Vision and Recurrent Neural Networks.
 
 ## Contact
