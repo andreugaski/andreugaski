@@ -38,11 +38,8 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 ## ➕ Worked also with:
 
 - 👨‍💻 C, C++, R 
-
 - ⚙️ Gymnasium, NetworkX, TensorFlow, OpenCV, NLTK...
-
 - 👁️ CopeliaSIM, AWS, Colab, Kaggle
-
 - 💽 MySQL, Mongo, Spark
 
 
