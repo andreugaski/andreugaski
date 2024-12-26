@@ -32,7 +32,7 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 
 
 
-## ➕ Worked also with:
+## ➕ Worked also with
 
 - 👨‍💻 C, C++, R 
 - ⚙️ Gymnasium, NetworkX, TensorFlow, OpenCV, NLTK...
@@ -41,7 +41,7 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 
 + a lot more ;)
 <br><br>
-## Some Projects...
+## My Projects
 
 - **[Deep Reinforcement Learning Project](https://github.com/peremayolc/ReinforcementLearning_Project_Group1.git)**: Solving two ATARI 2600 games using **gymnasium and Stable Baselines**.
   
