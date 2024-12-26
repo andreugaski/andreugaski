@@ -41,7 +41,7 @@ I'm Andreu, a 20-year-old **Artificial Intelligence** Student from Barcelona (Ca
 
 + a lot more ;)
 <br><br>
-## My Projects
+## Some Projects...
 
 - **[Deep Reinforcement Learning Project](https://github.com/peremayolc/ReinforcementLearning_Project_Group1.git)**: Solving two ATARI 2600 games using **gymnasium and Stable Baselines**.
   
